@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Cine planet San Borjal",
+		"address": "Calle A. Morelli Mz 1 Urb.",
+		"description": "2D, REGULAR, 3D, PRIME",
+		"latitude": -12.0896595,
+		"longitude": -77.0049528
+	},
+	{
+		"name": "CP San Miguel",
+		"address": "Calle Mantaro 356 Cruce",
+		"description": "2D, REGULAR, 3D, SCREENX, PRIME",
+		"latitude": -12.0758214,
+		"longitude": -77.0838891
+	}
+]
