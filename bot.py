@@ -193,9 +193,9 @@ async def location(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     # else:
     #     message = "No agencies found."
     # await update.message.reply_text(message)
-    await update.message.reply_text(f"La agencia más cercana es: {nearest_agency['agency']}")
+    await update.message.reply_text(f"El Cine más cercana es: {nearest_agency['agency']}\n Dirección 🗺: {nearest_agency['address']}")
     logger.info(
-        rf"Cliente {user.first_name} | Agencia: {nearest_agency['agency']}"
+        rf"Cliente {user.first_name} | Cine : {nearest_agency['agency']}"
     )
 
     return BIO

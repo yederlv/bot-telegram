@@ -1,16 +1,65 @@
 [
 	{
-		"name": "Cine planet San Borjal",
+		"agency": "Cine planet San Borja",
 		"address": "Calle A. Morelli Mz 1 Urb.",
-		"description": "2D, REGULAR, 3D, PRIME",
+		"description": "2D, 3D, REGULAR, PRIME",
 		"latitude": -12.0896595,
 		"longitude": -77.0049528
 	},
 	{
-		"name": "CP San Miguel",
+		"agency": "Cine Planet San Miguel",
 		"address": "Calle Mantaro 356 Cruce",
-		"description": "2D, REGULAR, 3D, SCREENX, PRIME",
+		"description": "2D, 3D, REGULAR, SCREENX, PRIME",
 		"latitude": -12.0758214,
 		"longitude": -77.0838891
+	},
+	{
+		"agency": "Cine Planet Alcazarl",
+		"address": "Av. Santa Cruz 814-816",
+		"description": "2D, 3D, REGULAR",
+		"latitude": -12.1102978,
+		"longitude": -77.0376364
+	},
+	{
+		"agency": "Cine Planet Brasil",
+		"address": "Av. Brasil 714 - 792 Piso 3",
+		"description": "2D, 3D, REGULAR",
+		"latitude": -12.0666745,
+		"longitude": -77.0476801
+	},
+	{
+		"agency": "Cine Planet Caminos del Inca",
+		"address": "Av Caminos del Inca 241 Int401",
+		"description": "2D, 3D, REGULAR",
+		"latitude": -12.1133394,
+		"longitude": -76.9913834
+	},
+	{
+		"agency": "Cine Planet Canto Grande",
+		"address": "AV CANTO GRANDE MZ.A LT.15",
+		"description": "2D, REGULAR",
+		"latitude": -11.978793,
+		"longitude": -77.0110637
+	},
+	{
+		"agency": "Cinepolis Plaza Norte",
+		"address": "Plaza Norte, Av. Tomás Valle, Independencia 15311",
+		"description": " ",
+		"latitude": -12.0068292,
+		"longitude": -77.0581547
+	},
+	{
+		"agency": "Cinepolis Santa Anita",
+		"address": "Av. Nicolás Ayllón, Santa Anita 15022",
+		"description": " ",
+		"latitude": -12.0570732,
+		"longitude": -76.9712374
+	},
+	{
+		"agency": "Cinepolis Larcomar",
+		"address": "Parque Salazar, Miraflores 15074",
+		"description": " ",
+		"latitude": -12.1319099,
+		"longitude": -77.0305541
 	}
 ]
